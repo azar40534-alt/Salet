@@ -3,9 +3,13 @@
     "name": "Salet",
     "slug": "salet",
     "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "4a993fe1-9dfa-4713-8e42-a4e06c8d6c3a
+      }
+    },
     "android": {
       "package": "com.azar40534.salet"
     }
   }
 }
-
