@@ -1,7 +1,7 @@
 {
   "expo": {
-    "name": "Salet",
-    "slug": "salet",
+    "name": "Salet App",
+    "slug": "salet-new",
     "version": "1.0.0",
     "extra": {
       "eas": {
@@ -9,7 +9,7 @@
       }
     },
     "android": {
-      "package": "com.azar40534.salet"
+      "package": "com.azar40534.saletnew"
     }
   }
 }
