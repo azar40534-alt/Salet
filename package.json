@@ -1,20 +1,15 @@
 {
-  "name": "salet",
-  "version": "1.0.0",
-  "main": "expo-router/entry",
-  "scripts": {
-    "start": "expo start",
-    "android": "expo start --android",
-    "ios": "expo start --ios"
-  },
-  "dependencies": {
-    "expo": "~51.0.0",
-    "expo-router": "~3.5.0",
-    "expo-status-bar": "~1.12.1",
-    "react": "18.2.0",
-    "react-native": "0.74.1",
-    "react-native-safe-area-context": "4.10.1",
-    "react-native-screens": "3.31.1"
-  },
-  "private": true
+  "expo": {
+    "name": "Salet App",
+    "slug": "salet-new",
+    "version": "1.0.0",
+    "extra": {
+      "eas": {
+        "projectId": "4a993fe1-9dfa-4713-8e42-a4e06c8d6c3a"
+      }
+    },
+    "android": {
+      "package": "com.azar40534.saletnew"
+    }
+  }
 }
