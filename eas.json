@@ -1,0 +1,11 @@
+{
+  "build": {
+    "preview": {
+  "build": {
+    "preview": {
+      "android": {
+        "buildType": "apk"
+      }
+    }
+  }
+}
