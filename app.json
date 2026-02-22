@@ -1,0 +1,17 @@
+{
+  "expo": {
+    "name": "Salet",
+    "slug": "salet",
+    "version": "1.0.0",
+    "scheme": "salet",
+    "ios": {
+      "supportsTablet": true
+    },
+    "android": {
+      "package": "com.azar40534.salet"
+    },
+    "plugins": [
+      "expo-router"
+    ]
+  }
+}
